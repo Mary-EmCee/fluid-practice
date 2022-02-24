@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+  margin: 0px;
+}
+.clear {
+  clear: both;
+}
+#wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/*---------- HEADER ----------*/
+
+header {
+  height: 300px;
+  width: 100%;
+  background: #fde9f1;
+}
+
+
+/*---------- CONTENT AREA ----------*/
+
+.col-3 {
+  width: 33.33%;
+  height: 320px;
+  float: left;
+}
+.pink-1 {
+  background: #fac0d3;
+}
+.pink-2 {
+  background: #f391cd;
+}
+.pink-3 {
+  background: #f3488f;
+}
+
+
+/*---------- FOOTER ----------*/
+
+footer {
+  width: 100%;
+  height: 30px;
+   background: #f8cb63;
+}
